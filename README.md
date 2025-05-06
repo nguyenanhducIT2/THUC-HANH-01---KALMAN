@@ -3,7 +3,8 @@ PHÂN TÍCH CHUỖI THỜI GIAN PODCAST BẰNG KALMAN
 
 *TQH
 mô hình trạng thái ẩn 
-![Demo](https://imgur.com/a/r07KYqO)
+(https://imgur.com/a/r07KYqO)
+ảnh em vẽ bằng draw.io
  mô hình Kalman Filter, bản chất  là 1 mô hình trạng thái ẩn ,theo em hiểu nó có nghĩa là: dữ liệu mà nhìn thấy như thời gian nghe podcast mỗi ngày chỉ là biểu hiện bên ngoài, còn bên trong sẽ có 1 trạng thái ẩn thật mà mình không nhìn được –như là xu hướng thực sự của người nghe.
 Kalman Filter tính các trạng thái ẩn đó theo thời gian, bằng cách kết hợp 2 yt:
 
