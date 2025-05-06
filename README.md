@@ -1,6 +1,5 @@
 PHÂN TÍCH CHUỖI THỜI GIAN PODCAST BẰNG KALMAN 
 
-
 *TQH
 mô hình trạng thái ẩn 
 (https://imgur.com/a/r07KYqO)
